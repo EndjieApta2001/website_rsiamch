@@ -333,7 +333,8 @@ body{
 }
 .header .logo {
 	float: left;
-	margin-top: 18px;
+	margin-top: 0px;
+	width: 150px;
 }
 .header .navbar {
 	background: none;
