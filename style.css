@@ -2031,6 +2031,7 @@ body{
 	-moz-transition: all 0.4s ease;
 	transition: all 0.4s ease;
 	box-shadow: 0px 0px 10px #00000014;
+	margin-bottom: 35px;
 }
 .blog .single-news img{
 	width:100%;
@@ -3794,6 +3795,27 @@ body{
 .about-content .btn {
   margin-top: 30px;
 }
+.doktor{
+	color: #fff;
+    padding: 13px 25px;
+    font-size: 14px;
+    text-transform: capitalize;
+    font-weight: 500;
+    background: #28a745;
+    position: relative;
+    box-shadow: none;
+    display: inline-block;
+}
+.doktor:hover{
+	background-color: #68d180;
+	color: #fff;
+}
+
+/* FAQ INFORMASI */
+.inner-content .card-body {
+	/* border: none; */
+}
+
 /* Start Our Vision Area CSS */
 .our-vision-area {
   position: relative;
