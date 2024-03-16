@@ -4024,6 +4024,11 @@ start jadwal praktik
 	color: #000;
 }
 
+.pull-left {
+	width: 172px;
+	position: absolute;
+}
+
 /* ===========================
 end jadwal praktik
 =========================== */
