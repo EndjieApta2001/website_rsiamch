@@ -4029,6 +4029,19 @@ start jadwal praktik
 	position: absolute;
 }
 
+.jadwaldokter{
+	margin-top: 100px;
+	margin-bottom: 100px;
+}
+
+.jadwaldokter .dokter img {
+	width: 60%;
+}
+
+.jadwaldokter .dokter .text-dokter {
+	text-align: center;
+}
+
 /* ===========================
 end jadwal praktik
 =========================== */
